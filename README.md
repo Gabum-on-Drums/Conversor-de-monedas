@@ -35,7 +35,9 @@ Los valores que ofrece actualmente son:
 5) USD -> CLP
 6) CLP -> USD
 
-<img width="561" height="449" alt="Respaldo conversión exitosa" src="https://github.com/user-attachments/assets/8da0fc3b-d363-4798-8cb8-ac307d23d037" />
+
+<img width="506" height="481" alt="Respaldo convesor" src="https://github.com/user-attachments/assets/be48c4ff-465c-4ca1-8bdd-4964756ec52e" />
+
 
 
 La aplicación realiza una consulta a la API de exchangerate-api.com concatenando los valores de moneda de inicio y tipo de moneda de destino y obtiene su respuesta en tiempo real junto con la tasa de conversión para realizar la operación.
@@ -43,13 +45,14 @@ La aplicación realiza una consulta a la API de exchangerate-api.com concatenand
 Cuenta con filtro para que en el caso que la opción ingresada no corresponda a las opciones mencionadas y encamine a la correcta elección del menú. Esto ayuda a que la aplicación siga funcionando sin problemas.
 
 
-<img width="671" height="401" alt="Respaldo opción incorrecta" src="https://github.com/user-attachments/assets/e9ee15d3-3636-4ef9-b930-6406b058b016" />
+<img width="693" height="402" alt="Respaldo opción incorrecta" src="https://github.com/user-attachments/assets/8631dcf0-c58e-4c3a-92a6-9cfc1d018386" />
+
 
 
 La aplicación se ofrece en el menú la opción salir, la cual finaliza el bucle y muestra un mensaje al finalizar.
 
 
-<img width="642" height="458" alt="Respaldo mensaje de salida" src="https://github.com/user-attachments/assets/14540dfd-88ce-4525-afa6-66999b2793a9" />
+<img width="642" height="458" alt="Respaldo mensaje de salida" src="https://github.com/user-attachments/assets/418cf299-943c-44b0-91aa-2c45bfdc6088" />
 
 
 ## Solicitudes y mejoras para la aplicación:
